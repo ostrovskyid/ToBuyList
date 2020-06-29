@@ -10,7 +10,9 @@ Dagger 2, Room, Databinding, RxJava, RxKotlin, RxAndroid.
 
 Min android version: 5
 ### Screeshots
-
+![](screenshots/photo_2020-06-29_14-34-26.jpg)
+![](screenshots/photo_2020-06-29_14-34-23.jpg)
+![](screenshots/photo_2020-06-29_14-34-28.jpg)
 
 ## License
 
